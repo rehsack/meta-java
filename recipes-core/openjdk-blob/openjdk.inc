@@ -1,4 +1,4 @@
-LICENSE = "custom"
+LICENSE = "GPL-2.0-with-classpath-exception"
 LIC_FILES_CHKSUM ?= "\
 	file://${WORKDIR}/openjdk-${PV}_${PV_UPDATE}/doc/java-${PV}-openjdk-devel/LICENSE;md5=7b4baeedfe2d40cb03536573bc2c89b1 \
 "
