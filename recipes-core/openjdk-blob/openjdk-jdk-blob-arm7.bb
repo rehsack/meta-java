@@ -9,3 +9,6 @@ LIC_FILES_CHKSUM = "\
 require openjdk-jdk.inc
 
 SRC_URI = "http://internal.rdm.local/blobs/openjdk-1.8.0_25.tgz"
+
+SRC_URI[md5sum] = "d09f42dfb18b79f4e4ef4345895df68f"
+SRC_URI[sha256sum] = "840f5f274bb7b164fe096ca1b1a1edda2dce71888e0d42908dae722f70243ae2"
