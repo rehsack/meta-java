@@ -1,0 +1,11 @@
+--- a/bin/gradle	2015-12-14 20:32:45.897402243 +0100
++++ b/bin/gradle	2015-12-14 20:42:45.565417775 +0100
+@@ -60,7 +60,7 @@
+ APP_HOME="`pwd -P`"
+ cd "$SAVED" >/dev/null
+ 
+-CLASSPATH=$APP_HOME/lib/gradle-launcher-2.9.jar
++CLASSPATH=$APP_HOME/share/gradle-2.9/gradle-launcher-2.9.jar
+ 
+ # Determine the Java command to use to start the JVM.
+ if [ -n "$JAVA_HOME" ] ; then
